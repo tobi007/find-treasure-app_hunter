@@ -1,0 +1,6 @@
+github.com/mergermarket/go-pkcs7 v0.0.0-20170926155232-153b18ea13c9 h1:j6boLfPkcFlRVaKbc0hf5PVh3jJrdHv9n6SIPOdVKaU=
+github.com/mergermarket/go-pkcs7 v0.0.0-20170926155232-153b18ea13c9/go.mod h1:GH7jtq102ZiRB7LEKgqP54akN7GOVaNpCJrDWTeWSMY=
+github.com/oleiade/lane v1.0.0 h1:kVSB6GwtxDriIu9yQFaEipAPMGV+nEpM60Pu02Fabyo=
+github.com/oleiade/lane v1.0.0/go.mod h1:ym0w0flrmBtGvApLDgFLa0sfGJkWxDQqnm0/0ok5w3Y=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
